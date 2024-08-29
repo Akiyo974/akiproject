@@ -227,7 +227,7 @@ function getUnreadMessages($userId)
                         </div>
                         <div class="modal-body">
                             <!-- Form starts here -->
-                            <form action="create-board.php" method="post">
+                            <form action="" method="post">
                                 <div class="mb-3">
                                     <label for="boardName" class="form-label">Nom du tableau</label>
                                     <input type="text" class="form-control" id="boardName" name="boardName" required>
